@@ -1,0 +1,8 @@
+Sequence,Location,X,Y,Distance_From_Previous
+1,Warehouse,0,0,0.0
+2,S001,0,0,0.0
+3,S002,10,4,10.77
+4,S004,13,12,8.54
+5,S005,8,18,7.81
+6,S003,4,11,8.06
+7,Warehouse,0,0,11.7

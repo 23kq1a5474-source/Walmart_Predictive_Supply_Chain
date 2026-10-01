@@ -1,0 +1,9 @@
+KPI,Value
+Total Demand,2909260.0
+Average Daily Demand,7948.8
+Forecast MAE,10.74
+Forecast RMSE,15.07
+Forecast MAPE (%),12.73
+Items Requiring Reorder,100.0
+Recommended Replenishment Units,117998.78
+Total Delivery Route Distance,46.88
